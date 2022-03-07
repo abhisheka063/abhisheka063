@@ -8,7 +8,7 @@
 Javascript, HTML, CSS,ReactJS,React-Hooks,Bootstrap
 
 
-## Other Common Github Profile Sections
+## Github Profile
 👩‍💻 I'm currently working on React projects
 
 🧠 I'm currently learning ReactJS and interested in Frontend development
